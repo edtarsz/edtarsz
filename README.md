@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**edtarsz/edtarsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+  <a>
+    <img align="left" width="200px" src="https://cdn2.albumoftheyear.org/375x0/album/ok-computer-1.jpg" style="max-width: 100%;">
+  </a>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+                » Radiohead(OK Computer) - 'Let Down' «
+              3:41 ━━━━━━━━━━━━━━━━━━━━━━━━━●─────────── 4:59
+                        ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+</pre>
